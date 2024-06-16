@@ -7,9 +7,9 @@ puzzles per day in the Advent calendar with the second puzzle unlocking after
 completion of the first.
 
 ## 2015 Solutions
-| Day | Stars | Solutions |
-|-----|-------|-----------|
-1
+| Day | Stars | Solution |
+|:---:|:-----:|:---------:|
+1|⭐⭐|[1.py](https://github.com/Videodromes/AdventOfCode-Python/blob/main/2015/01_not_quite_lisp/1.py)
 2
 3
 4

@@ -12,7 +12,7 @@ puzzles from past [events](https://adventofcode.com/events).
 |:---:|:-----:|:------:|:--------:|
 1|⭐⭐|[Not Quite Lisp](https://adventofcode.com/2015/day/1)|[1.py](https://github.com/Videodromes/AdventOfCode-Python/blob/main/2015/01_not_quite_lisp/1.py)
 2|⭐⭐|[I Was Told There Would Be No Math](https://adventofcode.com/2015/day/2)|[2.py](https://github.com/Videodromes/AdventOfCode-Python/blob/main/2015/02_i_was_told_there_would_be_no_math/2.py)
-3
+3|⭐⭐|[Perfectly Spherical Houses in a Vacuum](https://adventofcode.com/2015/day/3)|[3.py](https://github.com/Videodromes/AdventOfCode-Python/blob/main/2015/03_perfectly_spherical_houses_in_a_vacuum/3.py)
 4
 5
 6
